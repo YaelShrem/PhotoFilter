@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PhotoFilter/static/css/main.2138bef5.chunk.css",
+    "main.js": "/PhotoFilter/static/js/main.a1935b7e.chunk.js",
+    "main.js.map": "/PhotoFilter/static/js/main.a1935b7e.chunk.js.map",
+    "runtime-main.js": "/PhotoFilter/static/js/runtime-main.e209ec83.js",
+    "runtime-main.js.map": "/PhotoFilter/static/js/runtime-main.e209ec83.js.map",
+    "static/js/2.4371ab4e.chunk.js": "/PhotoFilter/static/js/2.4371ab4e.chunk.js",
+    "static/js/2.4371ab4e.chunk.js.map": "/PhotoFilter/static/js/2.4371ab4e.chunk.js.map",
+    "index.html": "/PhotoFilter/index.html",
+    "precache-manifest.bc3104ee1a26b56851d3ee649a5f8945.js": "/PhotoFilter/precache-manifest.bc3104ee1a26b56851d3ee649a5f8945.js",
+    "service-worker.js": "/PhotoFilter/service-worker.js",
+    "static/css/main.2138bef5.chunk.css.map": "/PhotoFilter/static/css/main.2138bef5.chunk.css.map",
+    "static/js/2.4371ab4e.chunk.js.LICENSE.txt": "/PhotoFilter/static/js/2.4371ab4e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PhotoFilter/static/media/sweety.d679ce4e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e209ec83.js",
+    "static/js/2.4371ab4e.chunk.js",
+    "static/css/main.2138bef5.chunk.css",
+    "static/js/main.a1935b7e.chunk.js"
+  ]
+}
